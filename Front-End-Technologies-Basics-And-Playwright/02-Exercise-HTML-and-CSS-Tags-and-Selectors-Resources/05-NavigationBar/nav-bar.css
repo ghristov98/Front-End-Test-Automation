@@ -1,0 +1,27 @@
+ul {
+    display : flex;
+    justify-content: center;
+    list-style-type: none;
+}
+body {
+    margin: 0px; 
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+ul {
+    background-color: #444444;
+    text-align: center;
+    margin: 0px; 
+    padding: 0px;
+    
+}
+li {
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+}   
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
